@@ -11,3 +11,32 @@ a:focus-visible { outline: 3px solid #855e12; outline-offset: 4px; }
 @media print { nav { display: none; } html { background: white; } main { max-width: none; padding: 0; } }
 .translation-note { margin: 1rem 0 1.5rem; padding: .8rem 1rem; border: 1px solid #cbd6cd; border-left: 4px solid #855e12; background: #fffdf5; font-size: .95rem; }
 .translation-note p { margin: 0; }
+
+/* Article navigation and language directory. */
+.contents { display: block; margin: 1.5rem 0; padding: 1rem; border: 1px solid #cbd6cd; border-radius: .5rem; background: #fff; }
+.contents p { margin-top: 0; }
+.contents ol, .language-section ol { padding-left: 1.5rem; }
+.contents li, .language-section li { margin: .5rem 0; }
+.language-section { margin-top: 1.5rem; padding: 0 1.2rem 1rem; border: 1px solid #cbd6cd; border-radius: .5rem; background: #fff; }
+h2[id] { scroll-margin-top: 1rem; }
+
+/* Localized hub layout. */
+.hub-header { padding: 1rem 0; }
+.hub-nav { display: block; padding: .8rem 1rem; background: #fff; border: 1px solid #cbd6cd; border-radius: .5rem; }
+.hub-nav p { margin: .25rem 0; }
+.hub-nav > a { display: inline-block; margin: .25rem .75rem .25rem 0; }
+.hub-section { margin: 1.5rem 0; padding: 0 1.2rem 1rem; border: 1px solid #cbd6cd; border-radius: .5rem; background: #fff; }
+.hub-section h3 { font-size: 1.08rem; line-height: 1.65; }
+article { margin-top: 3rem; padding-top: 1rem; border-top: 2px solid #cbd6cd; }
+article > h2:first-child { font-size: clamp(1.5rem, 4vw, 2rem); }
+article > h3 { font-size: 1.2rem; }
+[id] { scroll-margin-top: 1rem; }
+@media (max-width: 36rem) { main { padding: 1rem .85rem 3rem; } .hub-section, .language-section { padding-left: .85rem; padding-right: .85rem; } }
+
+/* Business archive image gallery. */
+.business-archive { margin-top: 2rem; border-top: 1px solid #cbd6cd; padding-top: .75rem; }
+.archive-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; }
+.archive-image { margin: 0; min-width: 0; }
+.archive-image img { display: block; width: 100%; height: auto; border-radius: .35rem; background: #edf2ed; }
+.archive-image figcaption { margin-top: .4rem; font-size: .9rem; line-height: 1.6; }
+@media (max-width: 36rem) { .archive-grid { grid-template-columns: 1fr; } }
