@@ -2,33 +2,31 @@
 
 **กิจวิเศษแพงโกล่า · Kitviset Pangola**
 
-หน้านี้เป็นคู่มือเริ่มต้นสำหรับดูเนื้อหาใน repository. ใช้ [หน้าแรก/สารบัญ HTML](./index.html) เพื่อเลือกภาษาและไปยังข้อมูลสินค้า วิธีปลูก คำถามที่พบบ่อย บทความ และช่องทางติดต่อ
-
-> ขณะนี้ไฟล์เป็น public source ใน repository; GitHub Pages ยังไม่เปิดใช้งาน จึงยังไม่มีหน้าเว็บจัดรูปแบบที่ใช้ URL ของ Pages ได้ ลิงก์ด้านล่างพาไปยังไฟล์ HTML ใน repository
+เว็บไซต์ความรู้ของธุรกิจเปิดแล้วที่ [หน้าแรก/สารบัญ 9 ภาษา](https://kitvisetlabs.github.io/Pangola-Grass/). ใช้หน้านี้เพื่อเลือกภาษา แล้วไปยังข้อมูลสินค้า วิธีปลูก คำถามที่พบบ่อย บทความ และช่องทางติดต่อ
 
 ## เลือกภาษา
 
-- [ไทย](./th/index.html)
-- [မြန်မာဘာသာ](./my/index.html)
-- [ລາວ](./lo/index.html)
-- [Tiếng Việt](./vi/index.html)
-- [简体中文](./zh-Hans/index.html)
-- [繁體中文（台灣）](./zh-Hant-TW/index.html)
-- [한국어](./ko/index.html)
-- [日本語](./ja/index.html)
-- [English](./en/index.html)
+- [ไทย](https://kitvisetlabs.github.io/Pangola-Grass/th/)
+- [မြန်မာဘာသာ](https://kitvisetlabs.github.io/Pangola-Grass/my/)
+- [ລາວ](https://kitvisetlabs.github.io/Pangola-Grass/lo/)
+- [Tiếng Việt](https://kitvisetlabs.github.io/Pangola-Grass/vi/)
+- [简体中文](https://kitvisetlabs.github.io/Pangola-Grass/zh-Hans/)
+- [繁體中文（台灣）](https://kitvisetlabs.github.io/Pangola-Grass/zh-Hant-TW/)
+- [한국어](https://kitvisetlabs.github.io/Pangola-Grass/ko/)
+- [日本語](https://kitvisetlabs.github.io/Pangola-Grass/ja/)
+- [English](https://kitvisetlabs.github.io/Pangola-Grass/en/)
 
 เนื้อหา 8 ภาษาอื่นนอกจากภาษาไทยเป็นคำแปลฉบับร่างที่ยังรอผู้ใช้ภาษาแม่ตรวจทาน โปรดดูประกาศในแต่ละหน้า
 
 ## ไปยังข้อมูลภาษาไทย
 
-- [บทความเช็กลิสต์ก่อนตกลงซื้อ](./th/index.html#articles-th)
-- [ข้อมูลสินค้า](./th/index.html#products-th)
-- [วิธีปลูกที่เจ้าของอธิบาย](./th/index.html#methods-th)
-- [คำถามสั้นก่อนติดต่อ](./th/index.html#faq-th)
-- [ติดต่อและนัดรับ](./th/index.html#contact-th)
+- [บทความเช็กลิสต์ก่อนตกลงซื้อ](https://kitvisetlabs.github.io/Pangola-Grass/th/#articles-th)
+- [ข้อมูลสินค้า](https://kitvisetlabs.github.io/Pangola-Grass/th/#products-th)
+- [วิธีปลูกที่เจ้าของอธิบาย](https://kitvisetlabs.github.io/Pangola-Grass/th/#methods-th)
+- [คำถามสั้นก่อนติดต่อ](https://kitvisetlabs.github.io/Pangola-Grass/th/#faq-th)
+- [ติดต่อและนัดรับ](https://kitvisetlabs.github.io/Pangola-Grass/th/#contact-th)
 
-แต่ละหน้าภาษามีลิงก์ไปยังหัวข้อเดียวกันในภาษานั้น และมีลิงก์กลับหน้าแรก
+แต่ละหน้าภาษามีลิงก์ไปยังหัวข้อเดียวกันในภาษานั้นและลิงก์กลับหน้าแรก
 
 ## ข้อมูลธุรกิจ
 
@@ -42,4 +40,4 @@
 
 ## หมายเหตุเรื่องภาพและการค้นหา
 
-ภาพ 16 ภาพที่อยู่ในเว็บไซต์เป็นภาพ archive เพื่อประกอบเนื้อหา ไม่ใช่หลักฐานว่ามีสินค้าพร้อมขายในปัจจุบัน การเข้าถึง repository สาธารณะไม่รับประกันว่า Google จะจัดทำดัชนีหรือว่าโมเดล AI จะนำข้อมูลไปใช้
+ภาพ 16 ภาพที่อยู่ในเว็บไซต์เป็นภาพ archive เพื่อประกอบเนื้อหา ไม่ใช่หลักฐานว่ามีสินค้าพร้อมขายในปัจจุบัน การเข้าถึงเว็บไซต์หรือ repository สาธารณะไม่ได้รับประกันการจัดทำดัชนีของ Google หรือการนำข้อมูลไปใช้โดยโมเดล AI
