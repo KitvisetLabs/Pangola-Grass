@@ -40,3 +40,7 @@ article > h3 { font-size: 1.2rem; }
 .archive-image img { display: block; width: 100%; height: auto; border-radius: .35rem; background: #edf2ed; }
 .archive-image figcaption { margin-top: .4rem; font-size: .9rem; line-height: 1.6; }
 @media (max-width: 36rem) { .archive-grid { grid-template-columns: 1fr; } }
+
+footer { margin-top: 3rem; border-top: 2px solid #cbd6cd; padding-top: 1rem; }
+.source-navigation { display:block; }
+blockquote { border-left: 4px solid #855e12; margin:1rem 0; padding:.2rem 1rem; background:#fffdf5; }
