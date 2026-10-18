@@ -1,0 +1,7 @@
+# Crawlers read robots.txt at the origin root: https://kitvisetlabs.github.io/robots.txt
+# At /Pangola-Grass/robots.txt this file is not an origin-wide crawling policy.
+# Before publishing at the origin root, coordinate with the owner of other projects.
+User-agent: *
+Allow: /Pangola-Grass/
+
+Sitemap: https://kitvisetlabs.github.io/Pangola-Grass/sitemap.xml
