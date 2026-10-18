@@ -1,0 +1,13 @@
+html { color-scheme: light; background: #f8faf7; color: #18251d; }
+body { margin: 0; font: 1.05rem/1.85 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 50rem; margin: auto; padding: 1.4rem 1.2rem 4rem; }
+nav { display: flex; flex-wrap: wrap; gap: .35rem .8rem; padding-bottom: 1.5rem; border-bottom: 1px solid #cbd6cd; }
+a { color: #125d3b; text-underline-offset: .2em; overflow-wrap: anywhere; }
+nav a { padding: .2rem 0; } nav [aria-current="page"] { font-weight: 700; }
+h1 { font-size: clamp(1.65rem, 4vw, 2.35rem); line-height: 1.5; margin-top: 1.5rem; }
+h2 { font-size: 1.3rem; line-height: 1.65; margin-top: 2rem; }
+p { margin: 1rem 0; overflow-wrap: anywhere; }
+a:focus-visible { outline: 3px solid #855e12; outline-offset: 4px; }
+@media print { nav { display: none; } html { background: white; } main { max-width: none; padding: 0; } }
+.translation-note { margin: 1rem 0 1.5rem; padding: .8rem 1rem; border: 1px solid #cbd6cd; border-left: 4px solid #855e12; background: #fffdf5; font-size: .95rem; }
+.translation-note p { margin: 0; }
