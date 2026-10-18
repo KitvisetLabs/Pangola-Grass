@@ -1,6 +1,6 @@
 # Project-scoped draft reference only; this file under /Pangola-Grass/ is not an origin-level robots policy.
 # It has no effect unless an origin administrator incorporates it into /robots.txt.
-# Proposed sitemap URL only; this does not assert publication.
+# The sitemap URL below is for this project path; this file does not set the origin-level robots policy.
 User-agent: *
 Allow: /Pangola-Grass/
 Sitemap: https://kitvisetlabs.github.io/Pangola-Grass/sitemap.xml
